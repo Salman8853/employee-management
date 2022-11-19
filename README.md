@@ -1,2 +1,7 @@
 # employee-management
-Go lang learning mini curd project with mongodb 
+
+Issue the following command deploy the API locally:
+ 
+ ```
+ go run main.go
+ ```
